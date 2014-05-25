@@ -1,0 +1,29 @@
+05/24/2014 (23:54:33) -    INFO - Loading plugins...
+05/24/2014 (23:54:33) -    INFO - World 'default' Booted.
+05/24/2014 (23:54:33) -    INFO - 198 garbage objects collected, 0 were uncollected.
+05/24/2014 (23:54:34) -    INFO - Heartbeat Sent. Your URL (saved to docs/SERVERURL): http://www.classicube.net/server/play/2ce5d38f021b5db3fd5977f2bfabf3ec/
+05/24/2014 (23:54:34) -    INFO - WoM Heartbeat Sent
+05/24/2014 (23:54:34) -    INFO - There are 0 users on the server
+05/24/2014 (23:54:34) -    INFO - default: 
+05/24/2014 (23:54:40) -    INFO - IRC client connected.
+05/24/2014 (23:54:43) -    INFO - IRC client joined #hetal.
+05/24/2014 (23:55:24) -    INFO - 192.168.31.206 is joining world worlds/default
+05/24/2014 (23:55:24) -    INFO - (192.168.31.206:55524) Kicked '%s'; authentication failed
+05/24/2014 (23:55:24) -    INFO - (192.168.31.206:55524) Sending error: Incorrect authentication, please try again.
+05/24/2014 (23:55:24) -    INFO - (192.168.31.206:55524) Disconnected 'Hetal'
+05/24/2014 (23:55:33) -    INFO - World 'default' has been saved.
+05/24/2014 (23:55:34) -    INFO - Heartbeat Sent. Your URL (saved to docs/SERVERURL): http://www.classicube.net/server/play/2ce5d38f021b5db3fd5977f2bfabf3ec/
+05/24/2014 (23:55:35) -    INFO - WoM Heartbeat Sent
+05/24/2014 (23:55:35) -    INFO - 192.168.31.206 is joining world worlds/default
+05/24/2014 (23:55:35) -    INFO - Heartbeat Sent. Your URL (saved to docs/SERVERURL): http://www.classicube.net/server/play/2ce5d38f021b5db3fd5977f2bfabf3ec/
+05/24/2014 (23:55:35) -    INFO - WoM Heartbeat Sent
+05/24/2014 (23:55:35) -    INFO - There are 1 users on the server
+05/24/2014 (23:55:35) -    INFO - default: None
+05/24/2014 (23:55:35) -    INFO - (192.168.31.206:55528) Kicked '%s'; authentication failed
+05/24/2014 (23:55:35) -    INFO - (192.168.31.206:55528) Sending error: Incorrect authentication, please try again.
+05/24/2014 (23:55:35) -    INFO - (192.168.31.206:55528) Disconnected 'Hetal'
+05/24/2014 (23:56:06) -    INFO - IRC client disconnected. ([Failure instance: Traceback (failure with no frames): <class 'reqs.twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+])
+05/24/2014 (23:56:06) -    INFO - Saving server metas...
+05/24/2014 (23:56:06) -    INFO - Flushing worlds to disk...
+05/24/2014 (23:56:06) -    INFO - Saving: worlds/default
